@@ -242,7 +242,23 @@
     }
   ],
   "cart":[
-
+    {
+      "id": 20,
+      "title": "MANDALA SKATEBOARD COMPLETE",
+      "price": 6299.00,
+       "category": "skateboard",
+      "image": "https://pisoskateboards.com/cdn/shop/products/Front-view-of-Mandala-Skateboard_800x.jpg?v=1624168883"
+      
+       
+    },
+    {
+      "id": 19,
+      "title": "CRUISER SKATEBOARD COMPLETE",
+      "price": 7099.00,
+       "category": "skateboard",
+      "image": "https://pisoskateboards.com/cdn/shop/products/Mandala-PisoCruiser-Complete_800x.jpg?v=1643452658"
+     
+    }
   ],
   "users":[
     
